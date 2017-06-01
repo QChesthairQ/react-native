@@ -30,4 +30,4 @@ const styles = {
 };
 
 // Export the component to make it for root component
-export default Header;
+export { Header };
